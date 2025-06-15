@@ -1,0 +1,2 @@
+The EBS is a block storage for EC2 instance
+It provide attach the EBS volumn for EC2.When EC2 instance are terminated but data is not deleted in the EBS volumn.
